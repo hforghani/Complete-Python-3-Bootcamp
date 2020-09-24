@@ -1,0 +1,1 @@
+print('Forghani Hello World!')
