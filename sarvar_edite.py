@@ -7,4 +7,4 @@ def remove_lowercase(string1, string2):
     str2.close()
     print(open(string2).read())
 
-remove_lowercase('sample.txt', 'sample3.txt')
+remove_lowercase('sample.txt', 'sample4.txt')
