@@ -1,0 +1,1 @@
+print('group_1 maktab')
