@@ -1,4 +1,4 @@
 def hello():
-    print('python')
+    print('python3')
 
 hello()
